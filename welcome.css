@@ -1,0 +1,39 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+
+}
+video{
+    width: 100%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color:#ffffff;
+    font-size: 1.2rem;    
+}
+.container1{
+    background-color: #dfdfdf;
+    display: flex;
+}
+.container1 img{
+    width:400px;
+    height:350px;
+    margin: 2% 6% ;
+}
+.container1 .title{
+     padding :15% 15%;
+}
+.container2{
+    background-color: #ffffff;
+    display: flex;
+}
+.container2 img{
+    width:400px;
+    height:350px;
+    margin: 2% 6%;
+}
+.container2 .title{
+     padding :15% 15% ;
+}
